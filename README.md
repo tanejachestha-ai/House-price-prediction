@@ -49,9 +49,9 @@ Steps Performed
 | Algorithm | R² Score | Remarks |
 |------------|-----------|---------|
 | Linear Regression | **0.92** | Best performance |
-| KNN Regressor | 0.85 | Sensitive to data scaling |
-| Decision Tree | 0.88 | Good but slightly overfits |
-| Random Forest | 0.90 | Strong but more complex |
+| KNN Regressor | 0.79 | Sensitive to data scaling |
+| Decision Tree | 0.84 | Good but slightly overfits |
+| Random Forest | 0.87 | Strong but more complex |
 
 ---
 
